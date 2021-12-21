@@ -1,4 +1,4 @@
 # hello-world
-the begginning
+the beginning
 
 another Engineer Girl
